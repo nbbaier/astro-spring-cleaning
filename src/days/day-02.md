@@ -1,4 +1,6 @@
-# Day 2 Assignment: Make a Spring Cleaning Plan
+---
+title: "Day 2: Make a Spring Cleaning Plan"
+---
 
 To take your big, amorphous goal of spring cleaning your home and make it something clear, tangible, and most importantly, start-able, we’re going to simply make a list of things you want to clean this season.
 

@@ -1,4 +1,6 @@
-# Day 8 Assignment: Scrub the Shower or Tub
+---
+title: "Day 8 Assignment: Scrub the Shower or Tub"
+---
 
 Grab some supplies and head to the bathroom ready to deep clean your shower, tub, or both, if you have them (and have the extra energy).
 
@@ -6,12 +8,12 @@ You’ll want to grab [a scrub brush](https://www.amazon.com/OXO-Grips-Heavy-Scr
 
 Here’s what to do:
 
-- If you’d like, before you start in on the scrubbing, take your shower curtain and liner down and give them a spin in the laundry. (Yep, even many plastic shower curtain liners can go through the wash.)
-- Spray your tub, and shower walls and floor with your cleaner, then let it sit for up to 5 minutes.
-- After a little while of letting the spray work its magic, go in with your brush and scrub at every inch of the walls.
-- Then, go in with your detail brush and inspect your grout, caulk, the areas around the fixtures, and any other small details in your shower and tub situation.
-- If any stubborn grime or dirt remains on your grout, rinse the walls well to remove all of the cleaner you applied, then follow it up with a second cleaner: a paste made from baking soda and hydrogen peroxide. Let it sit, then use your scrub brush to get at the grout again.
-- If you have a glass shower door, use glass cleaner and a squeegee to clean it, working from the top down.
-- If you cleaned your shower curtain and liner, replace them. Then you’re done!
+-  If you’d like, before you start in on the scrubbing, take your shower curtain and liner down and give them a spin in the laundry. (Yep, even many plastic shower curtain liners can go through the wash.)
+-  Spray your tub, and shower walls and floor with your cleaner, then let it sit for up to 5 minutes.
+-  After a little while of letting the spray work its magic, go in with your brush and scrub at every inch of the walls.
+-  Then, go in with your detail brush and inspect your grout, caulk, the areas around the fixtures, and any other small details in your shower and tub situation.
+-  If any stubborn grime or dirt remains on your grout, rinse the walls well to remove all of the cleaner you applied, then follow it up with a second cleaner: a paste made from baking soda and hydrogen peroxide. Let it sit, then use your scrub brush to get at the grout again.
+-  If you have a glass shower door, use glass cleaner and a squeegee to clean it, working from the top down.
+-  If you cleaned your shower curtain and liner, replace them. Then you’re done!
 
 Scrubbing the shower and tub is not the easiest cleaning task to accomplish, but it sure is one of the most satisfying!

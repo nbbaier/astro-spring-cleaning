@@ -1,4 +1,6 @@
-# Day 6 Assignment: Clean the Windows
+---
+title: "Day 6: Clean the Windows"
+---
 
 Gather up some supplies, and clean the windows. It’s that simple.
 
