@@ -17,10 +17,11 @@ import Layout from "../layouts/Layout.astro";
 
 // Get all posts for navigation
 const allPosts = await getCollection("days");
-const currentIndex = allPosts.findIndex((p) => p.id === post.id);
-const prevPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
+const sortedPosts = allPosts.sort((a, b) => a.id.localeCompare(b.id));
+const currentIndex = sortedPosts.findIndex((p) => p.id === post.id);
+const prevPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
 const nextPost =
-   currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
+   currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
 ---
 
 <Layout title={post.data.title.split(": ")[1].trim()}>
@@ -29,17 +30,19 @@ const nextPost =
    <div class="flex gap-2 mb-6">
       <a
          href="/"
-         class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded text-black no-underline"
+         class="px-4 py-2 bg-gray-200 hover:bg-gray-300 rounded text-black no-underline flex items-center gap-2"
       >
-         🏠 Home
+         <span class="text-lg">🏠</span>
+         <span class="hidden sm:inline">Home</span>
       </a>
       {
          prevPost && (
             <a
                href={`/${prevPost.id}`}
-               class="px-4 py-2 bg-blue-200 hover:bg-blue-300 rounded text-black no-underline"
+               class="px-4 py-2 bg-blue-200 hover:bg-blue-300 rounded text-black no-underline flex items-center gap-2"
             >
-               ← Previous Day
+               <span class="text-lg">←</span>
+               <span class="hidden sm:inline">Previous Day</span>
             </a>
          )
       }
@@ -47,9 +50,10 @@ const nextPost =
          nextPost && (
             <a
                href={`/${nextPost.id}`}
-               class="px-4 py-2 bg-green-200 hover:bg-green-300 rounded text-black no-underline"
+               class="px-4 py-2 bg-green-200 hover:bg-green-300 rounded text-black no-underline flex items-center gap-2"
             >
-               Next Day →
+               <span class="text-lg">→</span>
+               <span class="hidden sm:inline">Next Day</span>
             </a>
          )
       }

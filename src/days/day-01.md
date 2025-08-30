@@ -10,4 +10,4 @@ First take everything off the surface. If the bare surface looks visibly dusty o
 
 As you go to replace the objects on your shelf, dust and/or clean them off one by one as well. You can take this opportunity to re-arrange the objects, if that would make you happy. But if it feels overwhelming, you can just toss them back on in any old way (quite bohemian, actually) and marvel at this one impeccably clean area of your home.
 
-That's it for today! Stop here and gear up for tomorrow's assignment. -->
+That's it for today! Stop here and gear up for tomorrow's assignment.

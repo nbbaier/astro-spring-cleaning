@@ -4,6 +4,7 @@ import Layout from "../layouts/Layout.astro";
 
 const title = "Spring Cleaning Guide";
 const days = await getCollection("days");
+const sortedDays = days.sort((a, b) => a.id.localeCompare(b.id));
 ---
 
 <Layout title={title}>
@@ -11,7 +12,7 @@ const days = await getCollection("days");
    <>A simple guide to help you spring clean your home.</>
    <ul>
       {
-         days.map((day) => (
+         sortedDays.map((day) => (
             <li>
                <a class="hover:underline" href={`/${day.id}`}>
                   {day.data.title}

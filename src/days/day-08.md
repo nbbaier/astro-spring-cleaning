@@ -1,5 +1,5 @@
 ---
-title: "Day 8 Assignment: Scrub the Shower or Tub"
+title: "Day 8: Scrub the Shower or Tub"
 ---
 
 Grab some supplies and head to the bathroom ready to deep clean your shower, tub, or both, if you have them (and have the extra energy).
